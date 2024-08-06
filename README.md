@@ -10,9 +10,15 @@ This is my first React (Next) app, a simple To-Do List application where you can
 
 - Add new tasks to your to-do list.
 - Edit existing tasks.
-- Mark tasks as complete/incomplete.
 - Delete tasks.
 
+## Technologies Used
+
+- React
+- little bite of next
+- JavaScript(jsx)
+- Tailwind CSS
+  
 ## Getting Started
 
 ### Prerequisites
@@ -58,14 +64,6 @@ npm run build
 ```
 
 This will create an optimized build of your app in the `build` folder.
-
-## Technologies Used
-
-- React
-- little bite of next
-- JavaScript
-- HTML
-- CSS
 
 ## Contributing
 
