@@ -1,7 +1,3 @@
-Here's a simple README file for your To-Do List React app:
-
----
-
 # To-Do List App
 
 This is my first React (Next) app, a simple To-Do List application where you can add tasks and edit them later.
